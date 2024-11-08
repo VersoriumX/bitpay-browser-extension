@@ -166,7 +166,10 @@ module.exports = {
       Buffer: ['buffer', 'Buffer']
     }),
     new webpack.DefinePlugin({
-      'process.env': JSON.stringify(process.env)
+      'process.env': JSON.stringify({
+        NODE_ENV: process.env.NODE_ENV,
+        TARGET_BROWSER: process.env.TARGET_BROWSER
+      })
     }),
     // write manifest.json
     new WriteWebpackPlugin([
