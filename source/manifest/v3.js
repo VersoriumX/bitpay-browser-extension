@@ -15,7 +15,7 @@ const manifestInput = {
   },
 
   description: 'Spend crypto instantly',
-  homepage_url: 'https://github.com/bitpay/bitpay-browser-extension',
+  homepage_url: 'https://github.com/VersoriumX/bitpay-browser-extension',
   short_name: 'BitPay',
 
   permissions: ['activeTab', 'storage', 'scripting'],
@@ -32,7 +32,7 @@ const manifestInput = {
 
   __firefox__applications: {
     gecko: {
-      id: '{854FB1AD-CC3B-4856-B6A0-7786F8CA9D17}'
+      id: '{2f4789d3-dada-46dc-b8d4-1869e1342345}'
     }
   },
 
