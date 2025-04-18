@@ -1,6 +1,6 @@
 {
   "recommendations": [
-    "dbaeumer.vscode-eslint",
+    "versoriumx.vscode-eslint",
     "esbenp.prettier-vscode",
     "eamodio.gitlens",
     "streetsidesoftware.code-spell-checker",
