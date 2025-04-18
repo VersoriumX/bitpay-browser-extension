@@ -206,24 +206,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="bitpay-browser-extension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitpay-browser-extension" type="2f4789d3b2602c69:ProjectViewProjectNode" />
               <item name="bitpay-browser-extension" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="bitpay-browser-extension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitpay-browser-extension" type="2f4789d3:ProjectViewProjectNode" />
               <item name="bitpay-browser-extension" type="462c0819:PsiDirectoryNode" />
               <item name=".vscode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="bitpay-browser-extension" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitpay-browser-extension" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bitpay-browser-extension" type="2f4789d3:ProjectViewProjectNode" />
+              <item name="bitpay-browser-extension" type="2f4789d3:PsiDirectoryNode" />
+              <item name="src" type="2f4789d3:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="bitpay-browser-extension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitpay-browser-extension" type="2f4789d3:ProjectViewProjectNode" />
               <item name="bitpay-browser-extension" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="content-script" type="462c0819:PsiDirectoryNode" />
+              <item name="content-script" type="2f4789d3:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
